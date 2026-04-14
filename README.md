@@ -55,8 +55,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add link)
-* 📧 Email: (Add email)
+* 💼 LinkedIn: https://www.linkedin.com/in/priyanshu-verma-a5613b2b2/
+* 📧 Email: priyanshuverma81369@gmail.com
 
 ---
 
