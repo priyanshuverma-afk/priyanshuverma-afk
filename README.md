@@ -45,12 +45,12 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=priyanshuverma-afk\&show_icons=true\&theme=radical)
 
 ---
 ## 📈 Contribution Graph  
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshuverma-afk&theme=react-dark)
 
 ---
 ## 🔥 Streak
